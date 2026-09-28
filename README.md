@@ -1,6 +1,6 @@
 # easy_in_app_review
 
-[![pub package](https://img.shields.io/pub/v/easy_in_app_review.svg)](https://pub.dev/packages/easy_in_app_review)
+[![pub package](https://img.shields.io/pub/v/easy_in_app_review.svg)](https://pub.dev/packages/easy_admob_ads_flutter)
 [![License: BSD-3-Clause](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](LICENSE)
 
 A Flutter package that wraps [`in_app_review`](https://pub.dev/packages/in_app_review) with the bookkeeping Apple and Google expect apps to do themselves before showing a native review prompt: only asking when the platform says it's possible, not nagging a user who was just asked, and capping how often you try per year.
